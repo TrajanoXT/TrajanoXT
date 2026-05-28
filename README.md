@@ -1,25 +1,24 @@
-# Olá, eu sou o Trajano! 👋
+# Olá, eu sou o Vinicius Trajano!
 
-Estudante de tecnologia com foco em desenvolvimento de software e infraestrutura. Apaixonado por automação, sistemas operacionais e por entender como as coisas funcionam "por baixo do capô".
+Estudante de tecnologia com foco em desenvolvimento de software e infraestrutura. automação, sistemas operacionais e por entender como as coisas funcionam.
 
-### 🛠 Minhas Tecnologias e Ferramentas
+### Tecnologias
 
 **Desenvolvimento:**
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,spring,py,c)](https://skillicons.dev)
 
 **Infraestrutura & Ferramentas:**
-[![My Skills](https://skillicons.dev/icons?i=git,docker,kubernetes,vim,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vim,linux)](https://skillicons.dev)
 
 ---
 
 ### 💻 Sobre mim
-- 🎓 **Estudos:** Atualmente cursando o 3º ano do Ensino Médio.
 - 🐧 **Ambientes:** Usuário frequente de Linux (Ubuntu), macOS e Windows.
 - ⚡ **Interesses:** Desenvolvimento de APIs (Spring Boot), automação com Python, containers (Docker/K8s) e administração de sistemas via terminal (SSH/Vim).
 - 🔧 **Projetos Atuais:** Exploração de APIs de dados (CVM), configuração de ambientes persistentes e automação de infraestrutura.
 
 ### 📫 Como me encontrar
-- **GitHub:** [github.com/SEU_USUARIO](https://github.com/SEU_USUARIO)
+- **GitHub:** [github.com/TrajanoXT](https://github.com/TrajanoXT)
 
 ---
 *Visitante nº:*
