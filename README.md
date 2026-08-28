@@ -30,7 +30,7 @@ Atualmente, desenvolvo projetos com regras de negócio, separação entre entida
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-trajano-3365bb284/)
+- [LinkedIn](https://www.linkedin.com/in/vinicius-trajano-sh/)
 - E-mail: [viniciustrajano46@gmail.com](mailto:viniciustrajano46@gmail.com)
 
 Estou disponível para oportunidades como Desenvolvedor Backend Java Júnior.
